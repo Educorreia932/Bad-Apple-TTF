@@ -1,4 +1,2 @@
-
-Font/frames/
-
-Font/out/
+data/frames/*
+out/

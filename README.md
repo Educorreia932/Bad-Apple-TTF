@@ -1,9 +1,13 @@
-# Bad Apple
+<div align=center>
+<img src="banner.gif"> 
 
-My redemptions of Bad Apple.
+<br>
+   
+Bad Apple played on a font.
+</div>
 
-# [Font](Font/)
+# How to run
 
-Bad Apple as a WOFF font.
-
-![](Font/font_glyphs.png)
+```
+make
+```
